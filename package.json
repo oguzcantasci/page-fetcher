@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oguzcantasci/page-fetcher/issues"
   },
-  "homepage": "https://github.com/oguzcantasci/page-fetcher#readme"
+  "homepage": "https://github.com/oguzcantasci/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
